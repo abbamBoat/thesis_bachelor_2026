@@ -1,0 +1,561 @@
+Title,Role,Category,Element Name,Skill Type,Data Value
+Computer Systems Analysts,Data Scientist,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.88
+Computer Systems Analysts,Data Scientist,AI-Complementary,Active Listening,Soft / Non-Technical,3.75
+Computer Systems Analysts,Data Scientist,AI-Complementary,Writing,Soft / Non-Technical,3.38
+Computer Systems Analysts,Data Scientist,AI-Complementary,Speaking,Soft / Non-Technical,4.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Mathematics,Technical,3.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Science,Technical,2.25
+Computer Systems Analysts,Data Scientist,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.75
+Computer Systems Analysts,Data Scientist,AI-Complementary,Active Learning,Soft / Non-Technical,3.62
+Computer Systems Analysts,Data Scientist,AI-Complementary,Learning Strategies,Soft / Non-Technical,3.12
+Computer Systems Analysts,Data Scientist,AI-Complementary,Monitoring,Soft / Non-Technical,3.38
+Computer Systems Analysts,Data Scientist,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.12
+Computer Systems Analysts,Data Scientist,AI-Complementary,Coordination,Soft / Non-Technical,3.12
+Computer Systems Analysts,Data Scientist,AI-Complementary,Persuasion,Soft / Non-Technical,2.75
+Computer Systems Analysts,Data Scientist,AI-Complementary,Negotiation,Soft / Non-Technical,2.5
+Computer Systems Analysts,Data Scientist,AI-Complementary,Instructing,Soft / Non-Technical,2.88
+Computer Systems Analysts,Data Scientist,AI-Complementary,Service Orientation,Soft / Non-Technical,3.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.38
+Computer Systems Analysts,Data Scientist,AI-Complementary,Operations Analysis,Technical,3.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Technology Design,Technical,2.88
+Computer Systems Analysts,Data Scientist,AI-Complementary,Equipment Selection,Technical,2.25
+Computer Systems Analysts,Data Scientist,AI-Complementary,Installation,Technical,1.62
+Computer Systems Analysts,Data Scientist,AI-Complementary,Programming,Technical,3.25
+Computer Systems Analysts,Data Scientist,AI-Complementary,Operations Monitoring,Technical,3.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Operation and Control,Technical,2.5
+Computer Systems Analysts,Data Scientist,AI-Complementary,Equipment Maintenance,Technical,1.88
+Computer Systems Analysts,Data Scientist,AI-Complementary,Troubleshooting,Technical,3.12
+Computer Systems Analysts,Data Scientist,AI-Complementary,Repairing,Technical,1.88
+Computer Systems Analysts,Data Scientist,AI-Complementary,Quality Control Analysis,Technical,3.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.62
+Computer Systems Analysts,Data Scientist,AI-Complementary,Systems Analysis,Technical,3.75
+Computer Systems Analysts,Data Scientist,AI-Complementary,Systems Evaluation,Technical,3.75
+Computer Systems Analysts,Data Scientist,AI-Complementary,Time Management,Soft / Non-Technical,3.12
+Computer Systems Analysts,Data Scientist,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,2.12
+Computer Systems Analysts,Data Scientist,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.0
+Computer Systems Analysts,Data Scientist,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.88
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Reading Comprehension,Soft / Non-Technical,4.0
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Active Listening,Soft / Non-Technical,3.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Writing,Soft / Non-Technical,3.5
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Speaking,Soft / Non-Technical,3.62
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Mathematics,Technical,2.25
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Science,Technical,1.88
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.88
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Active Learning,Soft / Non-Technical,3.25
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Learning Strategies,Soft / Non-Technical,2.88
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Monitoring,Soft / Non-Technical,3.38
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,2.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Persuasion,Soft / Non-Technical,2.62
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Negotiation,Soft / Non-Technical,2.62
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Instructing,Soft / Non-Technical,2.88
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Service Orientation,Soft / Non-Technical,2.88
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Operations Analysis,Technical,2.5
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Technology Design,Technical,2.12
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Equipment Selection,Technical,1.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Installation,Technical,1.5
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Programming,Technical,2.62
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Operations Monitoring,Technical,3.0
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Operation and Control,Technical,1.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Equipment Maintenance,Technical,1.62
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Troubleshooting,Technical,2.12
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Repairing,Technical,1.62
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Quality Control Analysis,Technical,3.0
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.38
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Systems Analysis,Technical,3.38
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Systems Evaluation,Technical,3.0
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Time Management,Soft / Non-Technical,3.12
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,1.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Management of Material Resources,Soft / Non-Technical,1.75
+Information Security Analysts,Cybersecurity Specialist,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.88
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.75
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Active Listening,Soft / Non-Technical,3.75
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Writing,Soft / Non-Technical,3.38
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Speaking,Soft / Non-Technical,3.5
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Mathematics,Technical,3.38
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Science,Technical,3.12
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Critical Thinking,Soft / Non-Technical,4.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Active Learning,Soft / Non-Technical,3.5
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Learning Strategies,Soft / Non-Technical,3.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Monitoring,Soft / Non-Technical,3.12
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Persuasion,Soft / Non-Technical,2.75
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Negotiation,Soft / Non-Technical,2.5
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Instructing,Soft / Non-Technical,3.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Service Orientation,Soft / Non-Technical,2.75
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,4.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Operations Analysis,Technical,3.12
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Technology Design,Technical,3.12
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Equipment Selection,Technical,1.88
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Installation,Technical,1.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Programming,Technical,3.62
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Operations Monitoring,Technical,2.62
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Operation and Control,Technical,2.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Equipment Maintenance,Technical,1.12
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Troubleshooting,Technical,2.38
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Repairing,Technical,1.12
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Quality Control Analysis,Technical,2.38
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,4.0
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Systems Analysis,Technical,3.75
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Systems Evaluation,Technical,3.62
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Time Management,Soft / Non-Technical,3.38
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,2.5
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.25
+Computer and Information Research Scientists,AI/ML Engineer,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.88
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.38
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Active Listening,Soft / Non-Technical,3.5
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Writing,Soft / Non-Technical,3.0
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Speaking,Soft / Non-Technical,3.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Mathematics,Technical,2.12
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Science,Technical,1.88
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.75
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Active Learning,Soft / Non-Technical,3.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Learning Strategies,Soft / Non-Technical,2.62
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Monitoring,Soft / Non-Technical,3.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,2.88
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Coordination,Soft / Non-Technical,2.75
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Persuasion,Soft / Non-Technical,2.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Negotiation,Soft / Non-Technical,2.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Instructing,Soft / Non-Technical,2.62
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Service Orientation,Soft / Non-Technical,2.5
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Operations Analysis,Technical,1.88
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Technology Design,Technical,2.12
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Equipment Selection,Technical,2.5
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Installation,Technical,2.75
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Programming,Technical,2.25
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Operations Monitoring,Technical,3.0
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Operation and Control,Technical,2.0
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Equipment Maintenance,Technical,2.62
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Troubleshooting,Technical,3.12
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Repairing,Technical,2.88
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Quality Control Analysis,Technical,2.88
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.38
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Systems Analysis,Technical,3.12
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Systems Evaluation,Technical,3.0
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Time Management,Soft / Non-Technical,3.0
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,1.5
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.0
+Computer Network Support Specialists,Cloud Computing Specialist,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.25
+Computer Network Architects,DevOps Engineer,AI-Complementary,Reading Comprehension,Soft / Non-Technical,4.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Active Listening,Soft / Non-Technical,3.75
+Computer Network Architects,DevOps Engineer,AI-Complementary,Writing,Soft / Non-Technical,3.62
+Computer Network Architects,DevOps Engineer,AI-Complementary,Speaking,Soft / Non-Technical,3.5
+Computer Network Architects,DevOps Engineer,AI-Complementary,Mathematics,Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Science,Technical,2.12
+Computer Network Architects,DevOps Engineer,AI-Complementary,Critical Thinking,Soft / Non-Technical,4.12
+Computer Network Architects,DevOps Engineer,AI-Complementary,Active Learning,Soft / Non-Technical,3.25
+Computer Network Architects,DevOps Engineer,AI-Complementary,Learning Strategies,Soft / Non-Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Monitoring,Soft / Non-Technical,3.12
+Computer Network Architects,DevOps Engineer,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Coordination,Soft / Non-Technical,3.5
+Computer Network Architects,DevOps Engineer,AI-Complementary,Persuasion,Soft / Non-Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Negotiation,Soft / Non-Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Instructing,Soft / Non-Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Service Orientation,Soft / Non-Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.88
+Computer Network Architects,DevOps Engineer,AI-Complementary,Operations Analysis,Technical,2.88
+Computer Network Architects,DevOps Engineer,AI-Complementary,Technology Design,Technical,3.12
+Computer Network Architects,DevOps Engineer,AI-Complementary,Equipment Selection,Technical,2.62
+Computer Network Architects,DevOps Engineer,AI-Complementary,Installation,Technical,1.75
+Computer Network Architects,DevOps Engineer,AI-Complementary,Programming,Technical,3.88
+Computer Network Architects,DevOps Engineer,AI-Complementary,Operations Monitoring,Technical,3.0
+Computer Network Architects,DevOps Engineer,AI-Complementary,Operation and Control,Technical,2.62
+Computer Network Architects,DevOps Engineer,AI-Complementary,Equipment Maintenance,Technical,2.25
+Computer Network Architects,DevOps Engineer,AI-Complementary,Troubleshooting,Technical,2.88
+Computer Network Architects,DevOps Engineer,AI-Complementary,Repairing,Technical,2.12
+Computer Network Architects,DevOps Engineer,AI-Complementary,Quality Control Analysis,Technical,3.25
+Computer Network Architects,DevOps Engineer,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.75
+Computer Network Architects,DevOps Engineer,AI-Complementary,Systems Analysis,Technical,3.75
+Computer Network Architects,DevOps Engineer,AI-Complementary,Systems Evaluation,Technical,3.88
+Computer Network Architects,DevOps Engineer,AI-Complementary,Time Management,Soft / Non-Technical,3.12
+Computer Network Architects,DevOps Engineer,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,2.5
+Computer Network Architects,DevOps Engineer,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.38
+Computer Network Architects,DevOps Engineer,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.75
+Database Administrators,Data Engineer,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.75
+Database Administrators,Data Engineer,AI-Complementary,Active Listening,Soft / Non-Technical,3.75
+Database Administrators,Data Engineer,AI-Complementary,Writing,Soft / Non-Technical,3.25
+Database Administrators,Data Engineer,AI-Complementary,Speaking,Soft / Non-Technical,3.38
+Database Administrators,Data Engineer,AI-Complementary,Mathematics,Technical,3.0
+Database Administrators,Data Engineer,AI-Complementary,Science,Technical,2.0
+Database Administrators,Data Engineer,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.88
+Database Administrators,Data Engineer,AI-Complementary,Active Learning,Soft / Non-Technical,3.5
+Database Administrators,Data Engineer,AI-Complementary,Learning Strategies,Soft / Non-Technical,3.0
+Database Administrators,Data Engineer,AI-Complementary,Monitoring,Soft / Non-Technical,3.25
+Database Administrators,Data Engineer,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,2.88
+Database Administrators,Data Engineer,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Database Administrators,Data Engineer,AI-Complementary,Persuasion,Soft / Non-Technical,2.62
+Database Administrators,Data Engineer,AI-Complementary,Negotiation,Soft / Non-Technical,2.0
+Database Administrators,Data Engineer,AI-Complementary,Instructing,Soft / Non-Technical,3.0
+Database Administrators,Data Engineer,AI-Complementary,Service Orientation,Soft / Non-Technical,2.88
+Database Administrators,Data Engineer,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.88
+Database Administrators,Data Engineer,AI-Complementary,Operations Analysis,Technical,3.12
+Database Administrators,Data Engineer,AI-Complementary,Technology Design,Technical,2.38
+Database Administrators,Data Engineer,AI-Complementary,Equipment Selection,Technical,1.5
+Database Administrators,Data Engineer,AI-Complementary,Installation,Technical,1.38
+Database Administrators,Data Engineer,AI-Complementary,Programming,Technical,3.38
+Database Administrators,Data Engineer,AI-Complementary,Operations Monitoring,Technical,2.75
+Database Administrators,Data Engineer,AI-Complementary,Operation and Control,Technical,1.5
+Database Administrators,Data Engineer,AI-Complementary,Equipment Maintenance,Technical,1.0
+Database Administrators,Data Engineer,AI-Complementary,Troubleshooting,Technical,2.5
+Database Administrators,Data Engineer,AI-Complementary,Repairing,Technical,1.12
+Database Administrators,Data Engineer,AI-Complementary,Quality Control Analysis,Technical,2.5
+Database Administrators,Data Engineer,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.75
+Database Administrators,Data Engineer,AI-Complementary,Systems Analysis,Technical,3.12
+Database Administrators,Data Engineer,AI-Complementary,Systems Evaluation,Technical,3.12
+Database Administrators,Data Engineer,AI-Complementary,Time Management,Soft / Non-Technical,2.88
+Database Administrators,Data Engineer,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,1.75
+Database Administrators,Data Engineer,AI-Complementary,Management of Material Resources,Soft / Non-Technical,1.88
+Database Administrators,Data Engineer,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.75
+Database Architects,Data Engineer,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.88
+Database Architects,Data Engineer,AI-Complementary,Active Listening,Soft / Non-Technical,3.5
+Database Architects,Data Engineer,AI-Complementary,Writing,Soft / Non-Technical,3.12
+Database Architects,Data Engineer,AI-Complementary,Speaking,Soft / Non-Technical,3.5
+Database Architects,Data Engineer,AI-Complementary,Mathematics,Technical,3.0
+Database Architects,Data Engineer,AI-Complementary,Science,Technical,1.88
+Database Architects,Data Engineer,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.88
+Database Architects,Data Engineer,AI-Complementary,Active Learning,Soft / Non-Technical,3.25
+Database Architects,Data Engineer,AI-Complementary,Learning Strategies,Soft / Non-Technical,2.88
+Database Architects,Data Engineer,AI-Complementary,Monitoring,Soft / Non-Technical,3.12
+Database Architects,Data Engineer,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.0
+Database Architects,Data Engineer,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Database Architects,Data Engineer,AI-Complementary,Persuasion,Soft / Non-Technical,2.88
+Database Architects,Data Engineer,AI-Complementary,Negotiation,Soft / Non-Technical,2.62
+Database Architects,Data Engineer,AI-Complementary,Instructing,Soft / Non-Technical,2.88
+Database Architects,Data Engineer,AI-Complementary,Service Orientation,Soft / Non-Technical,3.0
+Database Architects,Data Engineer,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.88
+Database Architects,Data Engineer,AI-Complementary,Operations Analysis,Technical,3.12
+Database Architects,Data Engineer,AI-Complementary,Technology Design,Technical,3.0
+Database Architects,Data Engineer,AI-Complementary,Equipment Selection,Technical,1.62
+Database Architects,Data Engineer,AI-Complementary,Installation,Technical,1.62
+Database Architects,Data Engineer,AI-Complementary,Programming,Technical,3.38
+Database Architects,Data Engineer,AI-Complementary,Operations Monitoring,Technical,2.12
+Database Architects,Data Engineer,AI-Complementary,Operation and Control,Technical,1.75
+Database Architects,Data Engineer,AI-Complementary,Equipment Maintenance,Technical,1.12
+Database Architects,Data Engineer,AI-Complementary,Troubleshooting,Technical,1.88
+Database Architects,Data Engineer,AI-Complementary,Repairing,Technical,1.12
+Database Architects,Data Engineer,AI-Complementary,Quality Control Analysis,Technical,2.0
+Database Architects,Data Engineer,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.88
+Database Architects,Data Engineer,AI-Complementary,Systems Analysis,Technical,3.75
+Database Architects,Data Engineer,AI-Complementary,Systems Evaluation,Technical,3.25
+Database Architects,Data Engineer,AI-Complementary,Time Management,Soft / Non-Technical,3.0
+Database Architects,Data Engineer,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,2.0
+Database Architects,Data Engineer,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.0
+Database Architects,Data Engineer,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.5
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Active Listening,Soft / Non-Technical,3.5
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Writing,Soft / Non-Technical,3.25
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Speaking,Soft / Non-Technical,3.38
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Mathematics,Technical,3.0
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Science,Technical,1.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Active Learning,Soft / Non-Technical,3.0
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Learning Strategies,Soft / Non-Technical,2.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Monitoring,Soft / Non-Technical,2.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.0
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Coordination,Soft / Non-Technical,3.12
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Persuasion,Soft / Non-Technical,2.75
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Negotiation,Soft / Non-Technical,2.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Instructing,Soft / Non-Technical,2.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Service Orientation,Soft / Non-Technical,2.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Operations Analysis,Technical,2.75
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Technology Design,Technical,2.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Equipment Selection,Technical,1.5
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Installation,Technical,1.0
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Programming,Technical,3.75
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Operations Monitoring,Technical,2.5
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Operation and Control,Technical,1.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Equipment Maintenance,Technical,1.12
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Troubleshooting,Technical,1.62
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Repairing,Technical,1.12
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Quality Control Analysis,Technical,2.38
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.38
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Systems Analysis,Technical,3.5
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Systems Evaluation,Technical,3.25
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Time Management,Soft / Non-Technical,2.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,1.75
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Management of Material Resources,Soft / Non-Technical,1.88
+Data Warehousing Specialists,Data Engineer,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.12
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Reading Comprehension,Soft / Non-Technical,3.88
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Active Listening,Soft / Non-Technical,3.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Writing,Soft / Non-Technical,3.12
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Speaking,Soft / Non-Technical,3.38
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Mathematics,Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Science,Technical,2.25
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.88
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Active Learning,Soft / Non-Technical,3.12
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Learning Strategies,Soft / Non-Technical,2.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Monitoring,Soft / Non-Technical,3.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Persuasion,Soft / Non-Technical,2.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Negotiation,Soft / Non-Technical,2.5
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Instructing,Soft / Non-Technical,2.88
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Service Orientation,Soft / Non-Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Operations Analysis,Technical,3.12
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Technology Design,Technical,2.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Equipment Selection,Technical,2.88
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Installation,Technical,2.38
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Programming,Technical,3.62
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Operations Monitoring,Technical,3.38
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Operation and Control,Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Equipment Maintenance,Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Troubleshooting,Technical,3.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Repairing,Technical,3.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Quality Control Analysis,Technical,3.25
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.88
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Systems Analysis,Technical,3.88
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Systems Evaluation,Technical,3.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Time Management,Soft / Non-Technical,3.12
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,2.0
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.75
+Network and Computer Systems Administrators,Cloud Computing Specialist,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,3.0
+Computer Programmers,Software Developer,Transforming,Reading Comprehension,Soft / Non-Technical,3.38
+Computer Programmers,Software Developer,Transforming,Active Listening,Soft / Non-Technical,3.75
+Computer Programmers,Software Developer,Transforming,Writing,Soft / Non-Technical,3.25
+Computer Programmers,Software Developer,Transforming,Speaking,Soft / Non-Technical,3.12
+Computer Programmers,Software Developer,Transforming,Mathematics,Technical,3.12
+Computer Programmers,Software Developer,Transforming,Science,Technical,2.75
+Computer Programmers,Software Developer,Transforming,Critical Thinking,Soft / Non-Technical,3.75
+Computer Programmers,Software Developer,Transforming,Active Learning,Soft / Non-Technical,3.12
+Computer Programmers,Software Developer,Transforming,Learning Strategies,Soft / Non-Technical,2.38
+Computer Programmers,Software Developer,Transforming,Monitoring,Soft / Non-Technical,3.0
+Computer Programmers,Software Developer,Transforming,Social Perceptiveness,Soft / Non-Technical,3.12
+Computer Programmers,Software Developer,Transforming,Coordination,Soft / Non-Technical,3.0
+Computer Programmers,Software Developer,Transforming,Persuasion,Soft / Non-Technical,2.62
+Computer Programmers,Software Developer,Transforming,Negotiation,Soft / Non-Technical,2.12
+Computer Programmers,Software Developer,Transforming,Instructing,Soft / Non-Technical,2.5
+Computer Programmers,Software Developer,Transforming,Service Orientation,Soft / Non-Technical,2.25
+Computer Programmers,Software Developer,Transforming,Complex Problem Solving,Soft / Non-Technical,3.75
+Computer Programmers,Software Developer,Transforming,Operations Analysis,Technical,3.12
+Computer Programmers,Software Developer,Transforming,Technology Design,Technical,2.75
+Computer Programmers,Software Developer,Transforming,Equipment Selection,Technical,1.0
+Computer Programmers,Software Developer,Transforming,Installation,Technical,1.25
+Computer Programmers,Software Developer,Transforming,Programming,Technical,4.75
+Computer Programmers,Software Developer,Transforming,Operations Monitoring,Technical,2.25
+Computer Programmers,Software Developer,Transforming,Operation and Control,Technical,1.12
+Computer Programmers,Software Developer,Transforming,Equipment Maintenance,Technical,1.0
+Computer Programmers,Software Developer,Transforming,Troubleshooting,Technical,2.25
+Computer Programmers,Software Developer,Transforming,Repairing,Technical,1.0
+Computer Programmers,Software Developer,Transforming,Quality Control Analysis,Technical,3.5
+Computer Programmers,Software Developer,Transforming,Judgment and Decision Making,Soft / Non-Technical,3.25
+Computer Programmers,Software Developer,Transforming,Systems Analysis,Technical,3.38
+Computer Programmers,Software Developer,Transforming,Systems Evaluation,Technical,3.12
+Computer Programmers,Software Developer,Transforming,Time Management,Soft / Non-Technical,3.12
+Computer Programmers,Software Developer,Transforming,Management of Financial Resources,Soft / Non-Technical,2.0
+Computer Programmers,Software Developer,Transforming,Management of Material Resources,Soft / Non-Technical,2.0
+Computer Programmers,Software Developer,Transforming,Management of Personnel Resources,Soft / Non-Technical,2.62
+Software Developers,Software Developer,Transforming,Reading Comprehension,Soft / Non-Technical,3.5
+Software Developers,Software Developer,Transforming,Active Listening,Soft / Non-Technical,3.38
+Software Developers,Software Developer,Transforming,Writing,Soft / Non-Technical,3.25
+Software Developers,Software Developer,Transforming,Speaking,Soft / Non-Technical,3.12
+Software Developers,Software Developer,Transforming,Mathematics,Technical,2.75
+Software Developers,Software Developer,Transforming,Science,Technical,2.12
+Software Developers,Software Developer,Transforming,Critical Thinking,Soft / Non-Technical,3.88
+Software Developers,Software Developer,Transforming,Active Learning,Soft / Non-Technical,3.5
+Software Developers,Software Developer,Transforming,Learning Strategies,Soft / Non-Technical,2.62
+Software Developers,Software Developer,Transforming,Monitoring,Soft / Non-Technical,3.0
+Software Developers,Software Developer,Transforming,Social Perceptiveness,Soft / Non-Technical,2.88
+Software Developers,Software Developer,Transforming,Coordination,Soft / Non-Technical,3.0
+Software Developers,Software Developer,Transforming,Persuasion,Soft / Non-Technical,2.75
+Software Developers,Software Developer,Transforming,Negotiation,Soft / Non-Technical,2.62
+Software Developers,Software Developer,Transforming,Instructing,Soft / Non-Technical,2.88
+Software Developers,Software Developer,Transforming,Service Orientation,Soft / Non-Technical,2.88
+Software Developers,Software Developer,Transforming,Complex Problem Solving,Soft / Non-Technical,3.38
+Software Developers,Software Developer,Transforming,Operations Analysis,Technical,3.25
+Software Developers,Software Developer,Transforming,Technology Design,Technical,3.38
+Software Developers,Software Developer,Transforming,Equipment Selection,Technical,2.12
+Software Developers,Software Developer,Transforming,Installation,Technical,1.88
+Software Developers,Software Developer,Transforming,Programming,Technical,4.0
+Software Developers,Software Developer,Transforming,Operations Monitoring,Technical,2.75
+Software Developers,Software Developer,Transforming,Operation and Control,Technical,2.0
+Software Developers,Software Developer,Transforming,Equipment Maintenance,Technical,1.25
+Software Developers,Software Developer,Transforming,Troubleshooting,Technical,2.62
+Software Developers,Software Developer,Transforming,Repairing,Technical,1.12
+Software Developers,Software Developer,Transforming,Quality Control Analysis,Technical,2.75
+Software Developers,Software Developer,Transforming,Judgment and Decision Making,Soft / Non-Technical,3.62
+Software Developers,Software Developer,Transforming,Systems Analysis,Technical,3.5
+Software Developers,Software Developer,Transforming,Systems Evaluation,Technical,3.38
+Software Developers,Software Developer,Transforming,Time Management,Soft / Non-Technical,3.12
+Software Developers,Software Developer,Transforming,Management of Financial Resources,Soft / Non-Technical,1.75
+Software Developers,Software Developer,Transforming,Management of Material Resources,Soft / Non-Technical,1.62
+Software Developers,Software Developer,Transforming,Management of Personnel Resources,Soft / Non-Technical,2.25
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Reading Comprehension,Soft / Non-Technical,4.0
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Active Listening,Soft / Non-Technical,3.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Writing,Soft / Non-Technical,3.75
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Speaking,Soft / Non-Technical,3.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Mathematics,Technical,2.75
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Science,Technical,2.75
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Critical Thinking,Soft / Non-Technical,3.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Active Learning,Soft / Non-Technical,3.12
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Learning Strategies,Soft / Non-Technical,2.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Monitoring,Soft / Non-Technical,3.62
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Social Perceptiveness,Soft / Non-Technical,2.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Coordination,Soft / Non-Technical,3.0
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Persuasion,Soft / Non-Technical,2.5
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Negotiation,Soft / Non-Technical,2.12
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Instructing,Soft / Non-Technical,2.62
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Service Orientation,Soft / Non-Technical,2.5
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Complex Problem Solving,Soft / Non-Technical,3.38
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Operations Analysis,Technical,3.12
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Technology Design,Technical,2.62
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Equipment Selection,Technical,1.75
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Installation,Technical,2.0
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Programming,Technical,3.62
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Operations Monitoring,Technical,3.0
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Operation and Control,Technical,1.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Equipment Maintenance,Technical,1.0
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Troubleshooting,Technical,2.88
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Repairing,Technical,1.12
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Quality Control Analysis,Technical,3.38
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Judgment and Decision Making,Soft / Non-Technical,3.12
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Systems Analysis,Technical,3.12
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Systems Evaluation,Technical,3.25
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Time Management,Soft / Non-Technical,3.0
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Management of Financial Resources,Soft / Non-Technical,1.5
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Management of Material Resources,Soft / Non-Technical,1.5
+Software Quality Assurance Analysts and Testers,QA / Software Tester,Routine / Declining,Management of Personnel Resources,Soft / Non-Technical,2.12
+Web Developers,Software Developer,Transforming,Reading Comprehension,Soft / Non-Technical,3.62
+Web Developers,Software Developer,Transforming,Active Listening,Soft / Non-Technical,3.5
+Web Developers,Software Developer,Transforming,Writing,Soft / Non-Technical,3.12
+Web Developers,Software Developer,Transforming,Speaking,Soft / Non-Technical,3.25
+Web Developers,Software Developer,Transforming,Mathematics,Technical,2.75
+Web Developers,Software Developer,Transforming,Science,Technical,2.0
+Web Developers,Software Developer,Transforming,Critical Thinking,Soft / Non-Technical,3.75
+Web Developers,Software Developer,Transforming,Active Learning,Soft / Non-Technical,3.5
+Web Developers,Software Developer,Transforming,Learning Strategies,Soft / Non-Technical,2.88
+Web Developers,Software Developer,Transforming,Monitoring,Soft / Non-Technical,3.0
+Web Developers,Software Developer,Transforming,Social Perceptiveness,Soft / Non-Technical,2.88
+Web Developers,Software Developer,Transforming,Coordination,Soft / Non-Technical,3.0
+Web Developers,Software Developer,Transforming,Persuasion,Soft / Non-Technical,2.88
+Web Developers,Software Developer,Transforming,Negotiation,Soft / Non-Technical,2.75
+Web Developers,Software Developer,Transforming,Instructing,Soft / Non-Technical,2.75
+Web Developers,Software Developer,Transforming,Service Orientation,Soft / Non-Technical,2.88
+Web Developers,Software Developer,Transforming,Complex Problem Solving,Soft / Non-Technical,3.62
+Web Developers,Software Developer,Transforming,Operations Analysis,Technical,3.62
+Web Developers,Software Developer,Transforming,Technology Design,Technical,2.5
+Web Developers,Software Developer,Transforming,Equipment Selection,Technical,2.0
+Web Developers,Software Developer,Transforming,Installation,Technical,1.25
+Web Developers,Software Developer,Transforming,Programming,Technical,4.12
+Web Developers,Software Developer,Transforming,Operations Monitoring,Technical,2.25
+Web Developers,Software Developer,Transforming,Operation and Control,Technical,1.62
+Web Developers,Software Developer,Transforming,Equipment Maintenance,Technical,1.0
+Web Developers,Software Developer,Transforming,Troubleshooting,Technical,2.12
+Web Developers,Software Developer,Transforming,Repairing,Technical,1.0
+Web Developers,Software Developer,Transforming,Quality Control Analysis,Technical,2.75
+Web Developers,Software Developer,Transforming,Judgment and Decision Making,Soft / Non-Technical,3.38
+Web Developers,Software Developer,Transforming,Systems Analysis,Technical,3.12
+Web Developers,Software Developer,Transforming,Systems Evaluation,Technical,3.0
+Web Developers,Software Developer,Transforming,Time Management,Soft / Non-Technical,3.0
+Web Developers,Software Developer,Transforming,Management of Financial Resources,Soft / Non-Technical,1.75
+Web Developers,Software Developer,Transforming,Management of Material Resources,Soft / Non-Technical,1.75
+Web Developers,Software Developer,Transforming,Management of Personnel Resources,Soft / Non-Technical,2.38
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Reading Comprehension,Soft / Non-Technical,4.12
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Active Listening,Soft / Non-Technical,3.88
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Writing,Soft / Non-Technical,3.62
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Speaking,Soft / Non-Technical,3.5
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Mathematics,Technical,2.38
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Science,Technical,1.75
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Critical Thinking,Soft / Non-Technical,4.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Active Learning,Soft / Non-Technical,3.25
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Learning Strategies,Soft / Non-Technical,2.88
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Monitoring,Soft / Non-Technical,3.62
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,3.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Persuasion,Soft / Non-Technical,2.88
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Negotiation,Soft / Non-Technical,2.75
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Instructing,Soft / Non-Technical,3.12
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Service Orientation,Soft / Non-Technical,2.62
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.25
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Operations Analysis,Technical,2.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Technology Design,Technical,2.38
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Equipment Selection,Technical,2.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Installation,Technical,1.88
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Programming,Technical,3.12
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Operations Monitoring,Technical,3.12
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Operation and Control,Technical,2.12
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Equipment Maintenance,Technical,1.5
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Troubleshooting,Technical,2.5
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Repairing,Technical,1.88
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Quality Control Analysis,Technical,3.38
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.25
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Systems Analysis,Technical,3.38
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Systems Evaluation,Technical,3.38
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Time Management,Soft / Non-Technical,2.88
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,2.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Management of Material Resources,Soft / Non-Technical,2.0
+Information Security Engineers,Cybersecurity Specialist,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.62
+Computer Systems Engineers/Architects,Software Developer,Transforming,Reading Comprehension,Soft / Non-Technical,4.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Active Listening,Soft / Non-Technical,4.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Writing,Soft / Non-Technical,3.88
+Computer Systems Engineers/Architects,Software Developer,Transforming,Speaking,Soft / Non-Technical,3.88
+Computer Systems Engineers/Architects,Software Developer,Transforming,Mathematics,Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Science,Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Critical Thinking,Soft / Non-Technical,4.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Active Learning,Soft / Non-Technical,3.62
+Computer Systems Engineers/Architects,Software Developer,Transforming,Learning Strategies,Soft / Non-Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Monitoring,Soft / Non-Technical,3.5
+Computer Systems Engineers/Architects,Software Developer,Transforming,Social Perceptiveness,Soft / Non-Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Coordination,Soft / Non-Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Persuasion,Soft / Non-Technical,2.88
+Computer Systems Engineers/Architects,Software Developer,Transforming,Negotiation,Soft / Non-Technical,2.75
+Computer Systems Engineers/Architects,Software Developer,Transforming,Instructing,Soft / Non-Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Service Orientation,Soft / Non-Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Complex Problem Solving,Soft / Non-Technical,3.75
+Computer Systems Engineers/Architects,Software Developer,Transforming,Operations Analysis,Technical,3.75
+Computer Systems Engineers/Architects,Software Developer,Transforming,Technology Design,Technical,2.5
+Computer Systems Engineers/Architects,Software Developer,Transforming,Equipment Selection,Technical,2.12
+Computer Systems Engineers/Architects,Software Developer,Transforming,Installation,Technical,1.62
+Computer Systems Engineers/Architects,Software Developer,Transforming,Programming,Technical,3.5
+Computer Systems Engineers/Architects,Software Developer,Transforming,Operations Monitoring,Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Operation and Control,Technical,2.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Equipment Maintenance,Technical,1.88
+Computer Systems Engineers/Architects,Software Developer,Transforming,Troubleshooting,Technical,2.5
+Computer Systems Engineers/Architects,Software Developer,Transforming,Repairing,Technical,1.75
+Computer Systems Engineers/Architects,Software Developer,Transforming,Quality Control Analysis,Technical,3.12
+Computer Systems Engineers/Architects,Software Developer,Transforming,Judgment and Decision Making,Soft / Non-Technical,3.38
+Computer Systems Engineers/Architects,Software Developer,Transforming,Systems Analysis,Technical,3.88
+Computer Systems Engineers/Architects,Software Developer,Transforming,Systems Evaluation,Technical,3.88
+Computer Systems Engineers/Architects,Software Developer,Transforming,Time Management,Soft / Non-Technical,3.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Management of Financial Resources,Soft / Non-Technical,2.12
+Computer Systems Engineers/Architects,Software Developer,Transforming,Management of Material Resources,Soft / Non-Technical,2.0
+Computer Systems Engineers/Architects,Software Developer,Transforming,Management of Personnel Resources,Soft / Non-Technical,3.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Reading Comprehension,Soft / Non-Technical,4.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Active Listening,Soft / Non-Technical,3.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Writing,Soft / Non-Technical,3.75
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Speaking,Soft / Non-Technical,3.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Mathematics,Technical,3.5
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Science,Technical,1.62
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Critical Thinking,Soft / Non-Technical,3.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Active Learning,Soft / Non-Technical,3.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Learning Strategies,Soft / Non-Technical,3.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Monitoring,Soft / Non-Technical,3.12
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Social Perceptiveness,Soft / Non-Technical,2.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Coordination,Soft / Non-Technical,3.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Persuasion,Soft / Non-Technical,2.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Negotiation,Soft / Non-Technical,2.5
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Instructing,Soft / Non-Technical,3.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Service Orientation,Soft / Non-Technical,2.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Complex Problem Solving,Soft / Non-Technical,3.38
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Operations Analysis,Technical,1.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Technology Design,Technical,1.62
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Equipment Selection,Technical,1.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Installation,Technical,1.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Programming,Technical,2.5
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Operations Monitoring,Technical,1.75
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Operation and Control,Technical,1.38
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Equipment Maintenance,Technical,1.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Troubleshooting,Technical,1.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Repairing,Technical,1.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Quality Control Analysis,Technical,2.0
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Judgment and Decision Making,Soft / Non-Technical,3.62
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Systems Analysis,Technical,3.12
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Systems Evaluation,Technical,3.12
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Time Management,Soft / Non-Technical,3.12
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Management of Financial Resources,Soft / Non-Technical,1.88
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Management of Material Resources,Soft / Non-Technical,1.75
+Business Intelligence Analysts,Data Scientist,AI-Complementary,Management of Personnel Resources,Soft / Non-Technical,2.12

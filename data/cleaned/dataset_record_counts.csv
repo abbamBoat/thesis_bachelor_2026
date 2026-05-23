@@ -1,0 +1,5 @@
+Dataset,Raw Rows,Clean Rows,Dropped,Key Columns
+O*NET Skills.xlsx,62580,560,62020,"Title, Role, Element Name, Skill Type, Data Value"
+Lanbide Job Postings,1509,1509,0,"title, datePosted, Year, is_IT, 10 tech flags, 10 soft flags"
+CEDEFOP Labour Data,11270,11136,134,"Indicator, Countries, Year, Value"
+Basque Unemployment,30,22,8,"District, 2020, 2021, 2022, 2023, 2024"
