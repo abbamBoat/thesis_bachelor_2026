@@ -31,8 +31,17 @@ def show(data):
         title="IT Occupation Demand Index (2018 = 100)",
         color_discrete_map=ROLE_COLOURS,
     )
-    fig.add_hline(y=100, line_dash="dot", line_color="grey", annotation_text="2018 Baseline")
-    fig.update_layout(height=500, legend=dict(orientation="h", y=-0.3))
+    fig.add_hline(y=100, line_dash="dot", line_color="grey")
+    fig.add_annotation(
+        text="2018 Baseline", xref="paper", yref="y",
+        x=1.01, y=100, showarrow=False,
+        font=dict(color="grey", size=11), xanchor="left",
+    )
+    fig.update_layout(
+        height=560,
+        margin=dict(b=160, r=80),
+        legend=dict(orientation="h", y=-0.28, x=0, yanchor="top"),
+    )
     st.plotly_chart(fig, use_container_width=True)
 
     # Growth bar chart

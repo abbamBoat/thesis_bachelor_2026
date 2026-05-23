@@ -27,7 +27,11 @@ def show(data):
         if not filtered.empty:
             fig = px.line(filtered, x="Year", y="Value", color="Countries",
                           markers=True, title=selected_indicator)
-            fig.update_layout(height=430, legend=dict(orientation="h", y=-0.3))
+            fig.update_layout(
+                height=460,
+                margin=dict(b=120),
+                legend=dict(orientation="h", y=-0.25, x=0, yanchor="top"),
+            )
             st.plotly_chart(fig, use_container_width=True)
         else:
             st.warning("No data for this combination. Try different filters.")
@@ -46,6 +50,10 @@ def show(data):
             title="Unemployment Rate (%) — Basque Districts 2020–2024",
             markers=True,
         )
-        fig2.update_layout(height=450, legend=dict(orientation="h", y=-0.5, font=dict(size=9)))
+        fig2.update_layout(
+            height=480,
+            margin=dict(b=140),
+            legend=dict(orientation="h", y=-0.28, x=0, yanchor="top", font=dict(size=9)),
+        )
         st.plotly_chart(fig2, use_container_width=True)
         st.dataframe(unemp, use_container_width=True)

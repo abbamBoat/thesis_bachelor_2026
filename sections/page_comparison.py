@@ -34,8 +34,17 @@ def show(data):
         title="Demand Index in 2025 — Technical vs Soft (2018 = 100)",
         barmode="group",
     )
-    fig.add_vline(x=100, line_dash="dot", line_color="grey", annotation_text="Baseline (2018)")
-    fig.update_layout(height=580, legend=dict(orientation="h", y=1.05))
+    fig.add_vline(x=100, line_dash="dot", line_color="grey")
+    fig.add_annotation(
+        text="Baseline (2018)", xref="x", yref="paper",
+        x=100, y=1.02, showarrow=False,
+        font=dict(color="grey", size=11), xanchor="center",
+    )
+    fig.update_layout(
+        height=620,
+        margin=dict(b=80),
+        legend=dict(orientation="h", y=-0.12, x=0, yanchor="top"),
+    )
     st.plotly_chart(fig, use_container_width=True)
 
     # Combined Lanbide mentions
@@ -59,7 +68,11 @@ def show(data):
             text="Mentions",
         )
         fig2.update_traces(textposition="outside")
-        fig2.update_layout(height=560, legend=dict(orientation="h", y=1.05))
+        fig2.update_layout(
+            height=600,
+            margin=dict(b=80),
+            legend=dict(orientation="h", y=-0.12, x=0, yanchor="top"),
+        )
         st.plotly_chart(fig2, use_container_width=True)
 
     # Top skills per role — grouped bar instead of radar
@@ -89,8 +102,12 @@ def show(data):
             color_discrete_map={"Technical": "#2E4057", "Soft / Non-Technical": "#03A9F4"},
             title=f"Top 6 Technical + Top 6 Soft Skills — {role_choice} (O*NET Importance 0–5)",
             text="Data Value",
-            labels={"Data Value": "Importance (0–5)"},
+            labels={"Data Value": "Importance (0–5)", "Element Name": "Skill"},
         )
         fig3.update_traces(textposition="outside")
-        fig3.update_layout(height=500, legend=dict(orientation="h", y=1.05))
+        fig3.update_layout(
+            height=520,
+            margin=dict(b=80),
+            legend=dict(orientation="h", y=-0.15, x=0, yanchor="top"),
+        )
         st.plotly_chart(fig3, use_container_width=True)

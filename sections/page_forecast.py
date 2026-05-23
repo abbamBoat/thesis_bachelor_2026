@@ -16,7 +16,12 @@ def _line_with_stars(hist_df, forecast_df, colour_map, title, rf_col, dt_col, yr
         color_discrete_map=colour_map if colour_map else None,
         color_discrete_sequence=None if colour_map else px.colors.qualitative.Bold,
     )
-    fig.add_hline(y=100, line_dash="dot", line_color="grey", annotation_text="2018 Baseline")
+    fig.add_hline(y=100, line_dash="dot", line_color="grey")
+    fig.add_annotation(
+        text="2018 Baseline", xref="paper", yref="y",
+        x=1.01, y=100, showarrow=False,
+        font=dict(color="grey", size=11), xanchor="left",
+    )
 
     colours = list(colour_map.values()) if colour_map else px.colors.qualitative.Bold
 
@@ -42,7 +47,8 @@ def _line_with_stars(hist_df, forecast_df, colour_map, title, rf_col, dt_col, yr
             )
 
     fig.add_vline(x=2025.5, line_dash="dash", line_color="grey",
-                  annotation_text="← Actual  |  Predicted →")
+                  annotation_text="← Actual  |  Predicted →",
+                  annotation_position="top")
 
     # Manual legend entries for the symbols
     fig.add_scatter(x=[None], y=[None], mode="markers",
@@ -52,7 +58,11 @@ def _line_with_stars(hist_df, forecast_df, colour_map, title, rf_col, dt_col, yr
                     marker=dict(symbol="diamond", size=10, color="grey"),
                     name="◆ Decision Tree", showlegend=True)
 
-    fig.update_layout(height=530, legend=dict(orientation="h", y=-0.35))
+    fig.update_layout(
+        height=590,
+        margin=dict(b=180, r=80),
+        legend=dict(orientation="h", y=-0.28, x=0, yanchor="top"),
+    )
     return fig
 
 
@@ -165,9 +175,18 @@ This gives **56 training pairs** (7 pairs × 8 roles). No data is wasted.
             title="Predicted Demand Index in 2027 — RF vs DT",
             text=bar_data["Prediction"].round(1),
         )
-        fig2.add_vline(x=100, line_dash="dot", line_color="grey", annotation_text="Baseline")
+        fig2.add_vline(x=100, line_dash="dot", line_color="grey")
+        fig2.add_annotation(
+            text="Baseline", xref="x", yref="paper",
+            x=100, y=1.02, showarrow=False,
+            font=dict(color="grey", size=11), xanchor="center",
+        )
         fig2.update_traces(textposition="outside")
-        fig2.update_layout(height=450, legend=dict(orientation="h", y=1.05))
+        fig2.update_layout(
+            height=480,
+            margin=dict(b=80),
+            legend=dict(orientation="h", y=-0.18, x=0, yanchor="top"),
+        )
         st.plotly_chart(fig2, use_container_width=True)
 
     # ── Tab 2: Technical Skills ───────────────────────────────

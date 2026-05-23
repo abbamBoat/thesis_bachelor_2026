@@ -87,7 +87,7 @@ def show(data):
             color_discrete_map={"Technical": "#2E4057", "Soft / Non-Technical": "#03A9F4"},
             title=f"Top 10 Skills — {role_choice}",
             text="Data Value",
-            labels={"Data Value": "Importance (0–5)"},
+            labels={"Data Value": "Importance (0–5)", "Element Name": "Skill"},
         )
         fig2.update_traces(textposition="outside")
         fig2.update_layout(height=420)

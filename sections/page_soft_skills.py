@@ -27,8 +27,17 @@ def show(data):
         title="Soft / Non-Technical Skill Demand Index (2018 = 100)",
         color_discrete_sequence=px.colors.qualitative.Pastel,
     )
-    fig.add_hline(y=100, line_dash="dot", line_color="grey", annotation_text="2018 Baseline")
-    fig.update_layout(height=500, legend=dict(orientation="h", y=-0.3))
+    fig.add_hline(y=100, line_dash="dot", line_color="grey")
+    fig.add_annotation(
+        text="2018 Baseline", xref="paper", yref="y",
+        x=1.01, y=100, showarrow=False,
+        font=dict(color="grey", size=11), xanchor="left",
+    )
+    fig.update_layout(
+        height=560,
+        margin=dict(b=160, r=80),
+        legend=dict(orientation="h", y=-0.28, x=0, yanchor="top"),
+    )
     st.plotly_chart(fig, use_container_width=True)
 
     # Year-by-year table
@@ -64,10 +73,29 @@ def show(data):
         fig2.update_layout(height=400, coloraxis_showscale=False)
         st.plotly_chart(fig2, use_container_width=True)
 
-    # O*NET heatmap — soft only
+    # O*NET heatmap — soft only, 14 most IT-relevant soft skills
     if not onet.empty:
         st.subheader("O*NET Soft Skill Importance by Role")
-        soft_onet = onet[onet["Skill Type"] == "Soft / Non-Technical"]
+        SOFT_ONET_SKILLS = [
+            "Critical Thinking",
+            "Complex Problem Solving",
+            "Active Listening",
+            "Active Learning",
+            "Judgment and Decision Making",
+            "Monitoring",
+            "Social Perceptiveness",
+            "Coordination",
+            "Reading Comprehension",
+            "Writing",
+            "Speaking",
+            "Learning Strategies",
+            "Time Management",
+            "Instructing",
+        ]
+        soft_onet = onet[
+            (onet["Skill Type"] == "Soft / Non-Technical") &
+            (onet["Element Name"].isin(SOFT_ONET_SKILLS))
+        ]
         hm = (
             soft_onet.groupby(["Role", "Element Name"])["Data Value"]
             .mean().reset_index()
@@ -77,9 +105,10 @@ def show(data):
         fig3 = px.imshow(
             hm, text_auto=".1f", color_continuous_scale="Purples",
             aspect="auto", title="Soft Skill Importance (O*NET, scale 0–5)",
+            labels={"x": "Skill", "y": "Role", "color": "Importance"},
         )
         fig3.update_xaxes(tickangle=-35)
-        fig3.update_layout(height=450)
+        fig3.update_layout(height=420)
         st.plotly_chart(fig3, use_container_width=True)
 
     st.info(
